@@ -1,4 +1,4 @@
-package Home_work;
+package task2;
 
 public class Cat {
     private final String name;

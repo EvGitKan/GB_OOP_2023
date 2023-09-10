@@ -1,4 +1,4 @@
-package Lesson_work_1;
+package task1;
 
 public class BottleOfMilk extends Product {
 
