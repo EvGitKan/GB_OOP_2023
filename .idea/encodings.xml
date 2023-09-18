@@ -3,6 +3,10 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
     <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/task3/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/task5/Program.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task5/models" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task5/presenters" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task5/views" charset="windows-1251" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>

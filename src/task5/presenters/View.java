@@ -1,0 +1,14 @@
+package task5.presenters;
+
+import task5.models.Table;
+
+import java.util.Collection;
+
+public interface View {
+
+    void setObserver(ViewObserver observer);
+    void showTables(Collection<Table> tables);
+    void showReservationResult(int reservationNo);
+    void showCancelReservationResult(int reservationNo);
+
+}
