@@ -13,6 +13,32 @@
     <file url="file://$PROJECT_DIR$/src/task6/Product.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/task6/SaveToFile.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/task6/Services.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/Program.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter/AdapterST500.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter/MS200.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter/MeteoSensor.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter/MeteoStore.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter/ST500.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter/SensorTemperature.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/adapter/adapter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/task7/builder/Order.java.url" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/builder/OrderBuilder.java.url" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/builder/Program.java.url" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/factory/Employee.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/factory/EmployeeType.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/factory/Freelancer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/factory/Program.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/factory/Worker.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/observer/Company.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/observer/JobAgency.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/observer/Observer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/observer/Program.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/observer/Publisher.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/observer/Student.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/observer/Worker.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/singleton/Program.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task7/singleton/Settings.java" charset="windows-1251" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>
