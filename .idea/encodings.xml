@@ -7,6 +7,12 @@
     <file url="file://$PROJECT_DIR$/src/task5/models" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/task5/presenters" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/task5/views" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task6/Client.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task6/Main (1).java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task6/Order.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task6/Product.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task6/SaveToFile.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/task6/Services.java" charset="windows-1251" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>
