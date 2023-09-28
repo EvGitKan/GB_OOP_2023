@@ -2,6 +2,18 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
     <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Homework3.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Model/BadBirthDateException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Model/BadFIOException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Model/BadGenderException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Model/BadPhoneException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Model/DataChecker.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Model/Gender.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Model/ParsingDataStringException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/Presenter/Presenter.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/View/ConsoleView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/View/View.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Exception_task3/View/View.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/task3/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/task5/Program.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/task5/models" charset="windows-1251" />
